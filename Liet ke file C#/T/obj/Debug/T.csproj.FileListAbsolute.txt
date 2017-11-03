@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\T\T\bin\Debug\T.exe
+C:\Users\Admin\Desktop\T\T\bin\Debug\T.pdb
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.Form1.resources
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.Properties.Resources.resources
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.exe
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.pdb
+C:\Users\Admin\Desktop\T\T\obj\Debug\T.csprojResolveAssemblyReference.cache
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.exe
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.pdb
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\bin\Debug\T.exe
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\bin\Debug\T.pdb
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.csprojResolveAssemblyReference.cache
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.Form1.resources
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.Properties.Resources.resources
+C:\Users\BEHUONG\Desktop\NO2_Nhom10\T\obj\Debug\T.csproj.GenerateResource.Cache
